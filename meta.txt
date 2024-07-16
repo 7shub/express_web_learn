@@ -1,0 +1,5 @@
+what is express JS
+it is a MVC Framework of NodeJS.
+M: Model
+V: View
+C: Controller
